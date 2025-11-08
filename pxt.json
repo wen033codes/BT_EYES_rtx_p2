@@ -1,0 +1,29 @@
+{
+    "name": "眼控鍵盤事件_RTX_P2",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "microbit-pxt-blehid - Copy": "github:bsiever/microbit-pxt-blehid#v0.1.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "stable8.0",
+        "tag": "v8.0.18",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/ec67ee1ad9a7c41ee95376e7577127b32d4d233a",
+        "target": "8.0.18",
+        "pxt": "12.0.16",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
